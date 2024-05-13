@@ -15,9 +15,9 @@ and data-driven models of both supervised and unsupervised
 morphological processing.
 
 The course will run in two parallel streams.
-On one, there will be a series of lectures and tutorials, 
+On one hand, there will be a series of lectures and tutorials, 
 where fundamental topics and tools will be introduced.
-On the other, we will follow a seminar format, where we will read
+On the other hand, we will follow a seminar format, where we will read
 a selection of influential and/or recent papers from the literature,
 and discuss them in the class.
 The participants will also be required to complete small projects.
@@ -31,14 +31,14 @@ The questions of interest for this course include:
 - What is a word?
 - How can we discover words in speech, or texts written without clear
   hints to word boundaries?
-- Can we build models of morphological processing purely data-driven
-  manner?
+- Can we build models of morphological processing purely
+    in a data-driven manner?
 - Do we still need rule-based models/descriptions of natural
   languages?
 - Can we help document low-resource, endangered language with the help
   of computational methods?
 - Can we study morphological typology, the morphological differences
-  between the  world's languages, im computational and quatntiative
+  between the  world's languages, with computational and quantitative
   methods?
 - What makes a language morphologically complex or rich?
 - Can we quantify morphological complexity?

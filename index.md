@@ -60,4 +60,4 @@ finite-state automata and various machine learning methods.
 
 - Instructor: [Çağrı Çöltekin](http://coltekin.net/cagri/)
     <ccoltekin**@**sfs.uni-tuebingen.de>  
-    Office hours: Wednesday 16:00 - 17:00 (Keplerstr. 2, room 152)
+    Office hours: Tue 16:00 - 17:00 (Keplerstr. 2, room 152)
